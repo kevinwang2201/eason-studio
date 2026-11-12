@@ -1,0 +1,122 @@
+[
+  {
+    "id": "ai-recruitment",
+    "title": "AI 智慧招募流程",
+    "category": "automation",
+    "summary": "以 AI 協助整理履歷、萃取關鍵資訊與產出初步候選人評估資料。",
+    "description": "概念展示：讓人資可以集中查看履歷資訊，依照職缺條件整理技能與經驗摘要，並保留人工判斷的空間。本項目仍在規劃中，尚非商用成品。",
+    "problem": "大量履歷需要重複閱讀與整理，資訊格式不一致。",
+    "solution": "規劃透過文字擷取與結構化分析，協助統整資訊、產生可追溯的摘要，再由使用者確認。",
+    "features": [
+      "履歷資料欄位整理",
+      "職缺條件匹配摘要",
+      "匯出候選人清單",
+      "人工審核節點"
+    ],
+    "technologies": [
+      "Python",
+      "AI",
+      "資料處理"
+    ],
+    "cover": "assets/images/projects/recruitment.svg",
+    "images": [
+      "assets/images/projects/recruitment.svg"
+    ],
+    "youtube": "",
+    "demoUrl": "",
+    "featured": true,
+    "status": "規劃中",
+    "published": true,
+    "order": 1
+  },
+  {
+    "id": "ai-operations",
+    "title": "企業 AI 文件營運助理",
+    "category": "automation",
+    "summary": "整合商品文件與表格，協助資料檢查、欄位整理及 Email 草稿產生。",
+    "description": "概念展示：針對商品管理情境，規劃讓使用者上傳文件，整理欄位、識別缺漏並產出待確認的商品資料及溝通草稿。此為作品規劃案例，尚未對外部署。",
+    "problem": "商品資料散落在 Excel、PDF 與 Word，手動核對容易耗時。",
+    "solution": "透過文件解析與可編輯的資料預覽，協助減少複製貼上及人工比對。",
+    "features": [
+      "文件欄位辨識",
+      "資料缺漏檢查",
+      "商品資料彙整",
+      "中英文 Email 草稿"
+    ],
+    "technologies": [
+      "Python",
+      "AI Agent",
+      "Excel"
+    ],
+    "cover": "assets/images/projects/operations.svg",
+    "images": [
+      "assets/images/projects/operations.svg"
+    ],
+    "youtube": "",
+    "demoUrl": "",
+    "featured": true,
+    "status": "規劃中",
+    "published": true,
+    "order": 2
+  },
+  {
+    "id": "brand-ecommerce",
+    "title": "品牌形象與電商網站",
+    "category": "website",
+    "summary": "簡約、清楚的品牌網站與商品展示，規劃購物流程及後台管理。",
+    "description": "概念展示：以有設計感的品牌形象網站為基礎，延伸商品、會員與訂單管理的需求規劃。此為示範作品方向，購物與付款功能尚未正式建置。",
+    "problem": "品牌需要清楚呈現產品價值，同時考慮未來線上販售。",
+    "solution": "先建立具一致視覺的品牌展示架構，再依商務需求選擇可維護的電商方案。",
+    "features": [
+      "品牌首頁與 RWD",
+      "商品分類展示",
+      "後台商品管理規劃",
+      "會員與結帳流程規劃"
+    ],
+    "technologies": [
+      "HTML",
+      "CSS",
+      "WordPress"
+    ],
+    "cover": "assets/images/projects/ecommerce.svg",
+    "images": [
+      "assets/images/projects/ecommerce.svg"
+    ],
+    "youtube": "",
+    "demoUrl": "",
+    "featured": true,
+    "status": "規劃中",
+    "published": true,
+    "order": 3
+  },
+  {
+    "id": "ai-animation",
+    "title": "AI 原創動畫短片",
+    "category": "video",
+    "summary": "從原創角色、故事腳本、分鏡到 AI 動態影像的短片製作規劃。",
+    "description": "概念展示：以原創角色為主角，規劃 30～60 秒短篇故事，強調角色一致性、連續動作與影像敘事。尚未製作完成，後續可加入 YouTube 示範影片。",
+    "problem": "AI 影片製作需要兼顧角色一致性、分鏡連貫與後製完成度。",
+    "solution": "以角色設定表與分鏡腳本建立流程，逐鏡頭製作、檢查後整合剪輯。",
+    "features": [
+      "原創角色設定",
+      "腳本與分鏡",
+      "AI 影像生成規劃",
+      "剪輯與音效整合"
+    ],
+    "technologies": [
+      "AI Video",
+      "Storyboard",
+      "Editing"
+    ],
+    "cover": "assets/images/projects/animation.svg",
+    "images": [
+      "assets/images/projects/animation.svg"
+    ],
+    "youtube": "",
+    "demoUrl": "",
+    "featured": true,
+    "status": "規劃中",
+    "published": true,
+    "order": 4
+  }
+]
